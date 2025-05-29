@@ -31,7 +31,8 @@
 - [Project Checklist](#project-checklist)
 - [Project Structure](#project-structure) 
 - [Acknowledgements](#acknowledgements)
-
+- [Author](#author)
+  
 ## Overview
 
 This project is a responsive, mobile-first article listing web page built with semantic HTML5 and CSS3. It displays a series of articles—each featuring an optimized image (via `<picture>` and `srcset`), a title, and a publication date—arranged in a clean, flexible layout powered by Flexbox. Clean spacing, modern typography, hover animations, and fade-in effects enhance the user experience, while semantic structure and accessibility best practices ensure SEO-friendly, user-friendly performance across all devices.
