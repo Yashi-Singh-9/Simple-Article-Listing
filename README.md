@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.your-domain">
+    <a href="https://yashi-singh-9.github.io/Simple-Article-Listing/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/your-username/simple-article-listing">
+    <a href="https://devchallenges.io/solution/51315">
       Solution
     </a>
     <span> | </span>
@@ -29,8 +29,7 @@
 - [Built with](#built-with)
 - [Features](#features)
 - [Project Checklist](#project-checklist)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
+- [Project Structure](#project-structure) 
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -53,13 +52,13 @@ This project is a responsive, mobile-first article listing web page built with s
 ### Screenshot
 
 **Desktop Design**
-![Desktop Design](design/Desktop_1350px.jpg)
+![Desktop Design](design/Desktop_1350px.png)
 
-**Tablet Design**
-<img src="design/Tablet_1024px.jpg" height="650px">
+**Tablet Design**  
+<img src="design/Tablet_1024px.png" height="650px">
 
-**Mobile Design**
-<img src="design/Mobile_412px.jpg" height="650px">
+**Mobile Design**  
+<img src="design/Mobile_412px.png" height="650px">
 
 ## Built with
 
