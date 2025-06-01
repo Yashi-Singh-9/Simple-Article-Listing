@@ -20,83 +20,30 @@
   </h3>
 </div>
 
-## Table of Contents
+---
+
+## 📌 Table of Contents
 
 - [Overview](#overview)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+  - [What I Learned](#what-i-learned)
+  - [Useful Resources](#useful-resources)
   - [Screenshot](#screenshot)
-- [Built with](#built-with)
+- [Project Structure](#project-structure)
+- [Built With](#built-with)
 - [Features](#features)
 - [Project Checklist](#project-checklist)
-- [Project Structure](#project-structure) 
 - [Acknowledgements](#acknowledgements)
 - [Author](#author)
-  
-## Overview
+
+---
+
+## 🚀 Overview
 
 This project is a responsive, mobile-first article listing web page built with semantic HTML5 and CSS3. It displays a series of articles—each featuring an optimized image (via `<picture>` and `srcset`), a title, and a publication date—arranged in a clean, flexible layout powered by Flexbox. Clean spacing, modern typography, hover animations, and fade-in effects enhance the user experience, while semantic structure and accessibility best practices ensure SEO-friendly, user-friendly performance across all devices.
 
-### What I learned
+---
 
-- Responsive image handling using the `<picture>` element and `srcset`
-- Creating animation effects using `@keyframes`
-- How to enhance user experience with hover transitions and flexible layouts
-- Structuring content semantically for accessibility and SEO
-
-### Useful resources
-
-- [MDN Web Docs - Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
-
-### Screenshot
-
-**Desktop Design**
-![Desktop Design](design/Desktop_1350px.png)
-
-**Tablet Design**  
-<img src="design/Tablet_1024px.png" height="650px">
-
-**Mobile Design**  
-<img src="design/Mobile_412px.png" height="650px">
-
-## Built with
-
-- Semantic HTML5
-- CSS3
-- Flexbox
-- CSS Animations
-- Mobile-first responsive design
-
-## Features
-
-This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
-
-- ✅ Fully responsive design
-- ✅ Clean and modern layout
-- ✅ Flexbox-based article listing
-- ✅ Hover and animation effects
-- ✅ Semantic and accessible HTML
-- ✅ Easy to navigate and visually consistent
-
-## Project Checklist
-
-- ✅ Create a responsive web page that displays a list of articles using HTML and CSS.
-- ✅ Each article includes a picture, title, and publication date.
-- ✅ Implement flexbox to create a visually appealing and responsive layout.
-- ✅ Apply clean spacing and typography to enhance design.
-- ✅ Ensure the web page is accessible and user-friendly.
-- ✅ Test the web page on different devices and screen sizes.
-- ✅ Optimize the web page for performance and loading speed (e.g., use of `srcset` for images).
-- ✅ Use semantic HTML elements to improve SEO.
-- ✅ Apply CSS styles to enhance visual presentation.
-- ✅ Add hover effects or animations for interactivity.
-- ✅ Validate HTML and CSS for best practices (passed based on structure).
-- ✅ Document the code and provide clear instructions on how to use.
-- ✅ Deploy the website to make it accessible to everyone.
-
-## Project Structure
+## 📁 Project Structure
 
 ```
 
@@ -118,11 +65,93 @@ simple-article-listing/
 
 ```
 
-## Acknowledgements
+---
+
+### ✅ What I Learned
+
+- Responsive image handling using the `<picture>` element and `srcset`
+- Creating animation effects using `@keyframes`
+- How to enhance user experience with hover transitions and flexible layouts
+- Structuring content semantically for accessibility and SEO
+
+---
+
+### 📚 Useful Resources
+
+- [MDN Web Docs - Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
+- [Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+---
+
+### 📷 Screenshot
+
+**Desktop Design**  
+![Desktop Design](design/Desktop_1350px.png)
+
+**Tablet Design**  
+<img src="design/Tablet_1024px.png" height="650px">
+
+**Mobile Design**  
+<img src="design/Mobile_412px.png" height="650px">
+
+---
+
+## 🛠 Built With
+
+- Semantic HTML5
+- CSS3
+- Flexbox
+- CSS Animations
+- Mobile-first responsive design
+- [Bootstrap 5](https://getbootstrap.com/)
+
+---
+
+## ✨ Features
+
+This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+
+- ✅ Fully responsive design
+- ✅ Clean and modern layout
+- ✅ Flexbox-based article listing
+- ✅ Hover and animation effects
+- ✅ Semantic and accessible HTML
+- ✅ Easy to navigate and visually consistent
+
+---
+
+## ✅ Project Checklist
+
+- ✅ Create a responsive web page that displays a list of articles using HTML and CSS
+- ✅ Each article includes a picture, title, and publication date
+- ✅ Implement flexbox to create a visually appealing and responsive layout
+- ✅ Apply clean spacing and typography to enhance design
+- ✅ Ensure the web page is accessible and user-friendly
+- ✅ Test the web page on different devices and screen sizes
+- ✅ Optimize the web page for performance and loading speed (e.g., use of `srcset` for images)
+- ✅ Use semantic HTML elements to improve SEO
+- ✅ Apply CSS styles to enhance visual presentation
+- ✅ Add hover effects or animations for interactivity
+- ✅ Validate HTML and CSS for best practices (passed based on structure)
+- ✅ Document the code and provide clear instructions on how to use
+- ✅ Deploy the website to make it accessible to everyone
+
+---
+
+## 🙌 Acknowledgements
 
 - [DevChallenges](https://devchallenges.io/) for the inspiration and design guidelines
 - MDN and CSS-Tricks for tutorials and reference materials
+- [Bootstrap](https://getbootstrap.com/) – for utility classes and layout assistance
 
-## Author
+---
+
+## 👩‍💻 Author
 
 - LinkedIn: [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
+
+---
+
+⭐ Feel free to fork this repository, give it a ⭐, or suggest improvements!
